@@ -1,7 +1,7 @@
 # Predicting-Poison-Mushrooms
 Predicting Poison Mushrooms (Machine Learning Team Project)
 
-주제 :  독버섯 예측하기
+주제 :  독버섯 예측하기 🍄 
 
 사용 언어 : Python
 
